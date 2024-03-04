@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>tenis</title>
+<!-- TemplateEndEditable -->
+<link href="../estilos.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="principal">
+  <div id="encabezado">
+	<div id="logo"><!-- TemplateBeginEditable name="EditRegion5" --><img src="../nuevo-merch-de-kanye-west-vultures-07.jpg" alt="" width="800" height="908" class="log"/><!-- TemplateEndEditable --></div>
+ 	<div id="titulo"><!-- TemplateBeginEditable name="titulo" -->Content for  id "titulo" Goes Here<!-- TemplateEndEditable --></div>
+  </div>
+  <div id="menu"><a href="../index2.html">Inicio</a>|<a href="../tenis.html">Tenis</a>| <a href="../slides.html">Slides</a>|<a href="../hoodies.html">Hoodies</a>|<a href="../shades.html">Shades</a></div>
+  <div id="cuerpo"><!-- TemplateBeginEditable name="contenido2" -->Content for  id "cuerpo" Goes Here<!-- TemplateEndEditable --></div>
+  <div id="pie">
+	<div id="derechos">derechos reservados Genaro&copy;</div>
+	  <div id="redes"><img src="../png-transparent-instagram-instagram-logo-logo-instagram-icon.png" alt="" width="920" height="920" class="log"/></div>
+	</div>
+</div>
+</body>                                  
+</html>

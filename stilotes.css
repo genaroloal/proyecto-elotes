@@ -1,0 +1,82 @@
++@charset "utf-8";
+#titulo {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    text-align: center;
+    height: 50px;
+    width: 950px;
+    background-color: #734B0A;
+    float: left;
+    color: #F0DA12;
+    font-style: normal;
+    font-size: xx-large;
+}
+#logo{
+	height: 50px;
+    width: 50px;
+	float: left;
+}
+#PRINCIPAL {
+    background-color: #B99952;
+    width: 1000px;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+#ENCABEZADO {
+    background-color: #A36E21;
+    height: 50px;
+    width: 1000px;
+}
+#menu{
+    background-color: #BC8637;
+    clear: both;
+    height: 40px;
+    widows: 1000px;
+    text-align: center;
+    font-size: xx-large;
+    color: #FFFFFF;
+}
+.pic {
+    height: 50px;
+    min-width: 0px;
+    width: 50px;
+}
+
+#derechos{
+    widows: 500px;
+    height: 50px;
+    float: left;
+    font-size: small;
+    width: 500px;
+		
+	}
+#pie{
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+    background-color: #E3BD6B;
+    font-size: 35px;
+    font-style: italic;
+    height: 50px;
+    width: 1000px;
+}
+#redes{
+    width: 500px;
+    height: 50px;
+    float: left;
+    text-align: center;
+    font-size: small;
+}
+#cuerpo {
+    height: 600px;
+    text-align: center;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    color: #F0DA12;
+}
+.elotes {
+    width: 200px;
+    height: 200px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #FFFFFF;
+	text-align: center
+}
+.text {
+    text-align: left;
+
+}
